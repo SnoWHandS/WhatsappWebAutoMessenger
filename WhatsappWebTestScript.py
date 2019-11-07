@@ -14,7 +14,7 @@ body = browser.find_element_by_tag_name("body")
 body.send_keys(Keys.CONTROL + 't')
 
 
-browser.get('https://api.whatsapp.com/send?phone=27840886666&text=Test%201%203')
+browser.get('https://api.whatsapp.com/send?phone=REDACTED&text=Test%201%203')
 
 
 #Find the send button
@@ -44,7 +44,7 @@ browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + 'w')
 body = browser.find_element_by_tag_name("body")
 body.send_keys(Keys.CONTROL + 't')
 
-browser.get('https://api.whatsapp.com/send?phone=27840886666&text=Test%201%203')
+browser.get('https://api.whatsapp.com/send?phone=REDACTED&text=Test%201%203')
 
 
 #Find the send button
