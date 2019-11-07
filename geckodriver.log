@@ -1,0 +1,674 @@
+1570781187614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDqcity"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dillon which is owned by dillon.)
+1570782057555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAIDTuQ"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dillon which is owned by dillon.)
+1570782222664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUxvuCS"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/dillon which is owned by dillon.)
+1573145758545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuayUXB"
+1573145758957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573145758957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573145758957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573145758957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573145760717	Marionette	INFO	Listening on port 43417
+1573145760770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/ys/l/0,cross/1XO4LfR6LiC.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/ys/l/0,cross/1XO4LfR6LiC.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:585:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573146850215	Marionette	INFO	Stopped listening on port 43417
+1573146866363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9LDIwo"
+1573146866750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573146866751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573146866751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573146866751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573146868472	Marionette	INFO	Listening on port 41247
+1573146868641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+1573146922598	Marionette	INFO	Stopped listening on port 41247
+1573147061137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWnAkxH"
+1573147061523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573147061523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573147061523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573147061523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573147063152	Marionette	INFO	Listening on port 42133
+1573147063320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573147110812	Marionette	INFO	Stopped listening on port 42133
+1573147129761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU3zGYF"
+1573147130146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573147130146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573147130146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573147130146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573147131827	Marionette	INFO	Listening on port 37557
+1573147131868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573147416487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT0uKzs"
+1573147416877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573147416877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573147416877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573147416877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573147418522	Marionette	INFO	Listening on port 45473
+1573147418594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573147486291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZpj5hZ"
+1573147486699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573147486699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573147486699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573147486700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573147488499	Marionette	INFO	Listening on port 43645
+1573147488506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 25658, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573147534644	Marionette	INFO	Stopped listening on port 45473
+[Parent 26072, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26072, Gecko_IOThread] WARNING: pipe error (152): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573147535196	Marionette	INFO	Stopped listening on port 43645
+[Parent 25206, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25206, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573147599236	Marionette	INFO	Stopped listening on port 37557
+1573147614959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR9mH8s"
+1573147615339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573147615340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573147615340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573147615340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573147616951	Marionette	INFO	Listening on port 42521
+1573147616967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573147644833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP2pJTF"
+1573147645239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573147645240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573147645240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573147645240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573147647194	Marionette	INFO	Listening on port 39707
+1573147647268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 26880, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26880, Gecko_IOThread] WARNING: pipe error (157): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573147677724	Marionette	INFO	Stopped listening on port 42521
+1573147683388	Marionette	INFO	Stopped listening on port 39707
+1573148235880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4I8PKa"
+1573148236269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573148236269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573148236269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573148236269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573148237962	Marionette	INFO	Listening on port 38439
+1573148237989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573148412512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOAGtt2"
+1573148412897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573148412897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573148412897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573148412897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573148414549	Marionette	INFO	Listening on port 46563
+1573148414619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Protocol error (unknownError): node is null"
+
+(/usr/lib/firefox/firefox:28386): dconf-WARNING **: 19:41:43.907: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+
+(/usr/lib/firefox/firefox:28646): dconf-WARNING **: 19:42:52.984: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1573148590531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO0j89t"
+1573148591035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573148591035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573148591036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573148591036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573148593374	Marionette	INFO	Listening on port 46555
+1573148593460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+console.warn: "Not syncing the preference 'lightweightThemes.usedThemes' because it has no local control preference (services.sync.prefs.sync.lightweightThemes.usedThemes) and the preference services.sync.prefs.dangerously_allow_arbitrary isn't true. See https://support.mozilla.org/1/firefox/70.0/Linux/en-US/sync-custom-preferences for more information"
+JavaScript warning: moz-extension://539b92c4-8473-4671-8ba5-5bc4edd5f45f/content_scripts/injected.js, line 7: unreachable code after return statement
+JavaScript warning: moz-extension://539b92c4-8473-4671-8ba5-5bc4edd5f45f/content_scripts/injected.js, line 7: unreachable code after return statement
+1573148624328	Marionette	INFO	Stopped listening on port 46555
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheet]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:413:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:413:36
+]]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x570005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+1573148624558	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+[Parent 28247, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheet]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:413:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:413:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheet]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:413:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:413:36
+]]
+[Parent 28247, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 28247, Gecko_IOThread] WARNING: pipe error (209): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573148626730	Marionette	INFO	Stopped listening on port 46563
+1573149501265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-data-dir=/home/dillon/.mozilla/firefox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2dviGo"
+1573149501658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573149501658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573149501658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573149501658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573149503380	Marionette	INFO	Listening on port 40333
+1573149503542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 29242, Gecko_IOThread] WARNING: pipe error (155): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1573149724833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-data-dir=/home/dillon/.mozilla/firefox" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerL1M0K"
+1573149725226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573149725226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573149725226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573149725226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573149726961	Marionette	INFO	Listening on port 40319
+1573149727101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573149768345	Marionette	INFO	Stopped listening on port 40319
+1573149846922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-data-dir=/home/dillon/.mozilla/firefox" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep36cNK"
+1573149847304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573149847304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573149847304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573149847305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573149849342	Marionette	INFO	Listening on port 36961
+1573149849429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 29769, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573149859693	Marionette	INFO	Stopped listening on port 36961
+1573149979106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile89EgZT"
+1573149979493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573149979494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573149979494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573149979494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573149981217	Marionette	INFO	Listening on port 42353
+1573149981313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 30013, Gecko_IOThread] WARNING: pipe error (156): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573149992269	Marionette	INFO	Stopped listening on port 42353
+1573150977699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekCij0u"
+1573150978131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573150978132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573150978132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573150978132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573150980274	Marionette	INFO	Listening on port 33923
+1573150980361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1573151026431	Marionette	INFO	Stopped listening on port 38439
+1573151031144	Marionette	INFO	Stopped listening on port 33923
+1573151064299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile88NFmm"
+1573151064720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573151064721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573151064721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573151064721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573151066985	Marionette	INFO	Listening on port 42947
+1573151067110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573151104903	Marionette	INFO	Stopped listening on port 42947
+1573151600154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK7GRzI"
+1573151600587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573151600588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573151600588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573151600588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573151602747	Marionette	INFO	Listening on port 37899
+1573151602764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573151617755	Marionette	INFO	Stopped listening on port 37899
+1573151619472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWLy2Ze"
+1573151619926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573151619926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573151619926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573151619926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573151622097	Marionette	INFO	Listening on port 38171
+1573151622218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573151651808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVskTNd"
+1573151652272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573151652272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573151652272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573151652272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573151654386	Marionette	INFO	Listening on port 46175
+1573151654493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ, line 395: Error: Script terminated by timeout at:
+s_a.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ:395:136
+s_61.prototype.log@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ/m=EPszLb,F8FRnd,MkHyGd,NBZ7u,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,ZDfS0b,a7RyVe,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,ebqyud,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,wkrYee,wrFDyc,xc1DSd,xz7cCd,zbML3c?xjs=s1:381:379
+s_98f@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ/m=EPszLb,F8FRnd,MkHyGd,NBZ7u,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,ZDfS0b,a7RyVe,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,ebqyud,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,wkrYee,wrFDyc,xc1DSd,xz7cCd,zbML3c?xjs=s1:409:201
+s_91.prototype.Ca@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ/m=EPszLb,F8FRnd,MkHyGd,NBZ7u,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,ZDfS0b,a7RyVe,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,ebqyud,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,wkrYee,wrFDyc,xc1DSd,xz7cCd,zbML3c?xjs=s1:408:241
+s_Oha@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ:317:230
+s_Mha@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ:318:249
+s_Kha/b<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.2MWR1VMbpK8.O/ck=xjs.s.l8Rx5M0ffG0.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAsAiYdQPg-X8oAAgAegwAAALagg0WCEFChrEwgA/d=1/dg=2/ct=zgms/rs=ACT90oGUNzRa0V3bkwQ82_b58NOmpUcZAQ:314:277
+
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573151723942	Marionette	INFO	Stopped listening on port 46175
+1573152654391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemWNoaP"
+1573152654774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573152654774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573152654774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573152654774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573152656510	Marionette	INFO	Listening on port 34573
+1573152656604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573152706158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiqCAxt"
+1573152706547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573152706547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573152706548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573152706548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573152708261	Marionette	INFO	Listening on port 43227
+1573152708270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573152988942	Marionette	INFO	Stopped listening on port 43227
+[Parent 32324, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573153025911	Marionette	INFO	Stopped listening on port 34573
+1573153027401	Marionette	INFO	Stopped listening on port 38171
