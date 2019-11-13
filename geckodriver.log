@@ -672,3 +672,249 @@ JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2
 [Parent 32324, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
 1573153025911	Marionette	INFO	Stopped listening on port 34573
 1573153027401	Marionette	INFO	Stopped listening on port 38171
+1573242933214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLwBY0e"
+1573242933645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573242933646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573242933646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573242933646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573242935498	Marionette	INFO	Listening on port 36295
+1573242935555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573242940082	Marionette	INFO	Stopped listening on port 36295
+1573242958282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL9rJ3e"
+1573242958680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573242958680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573242958680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573242958680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573242960463	Marionette	INFO	Listening on port 38695
+1573242960529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573242993121	Marionette	INFO	Stopped listening on port 38695
+1573243027515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=/home/dillon/.mozilla/firefox/sosp1pw2.default" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu3Y86I"
+1573243027934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573243027934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573243027934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573243027934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573243029636	Marionette	INFO	Listening on port 37175
+1573243029724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 3517, Gecko_IOThread] WARNING: pipe error (152): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573243065872	Marionette	INFO	Stopped listening on port 37175
+1573651281983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile63TfI2"
+1573651282392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651282392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651282392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651282393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651284218	Marionette	INFO	Listening on port 38237
+1573651284363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573651453056	Marionette	INFO	Stopped listening on port 38237
+1573651464195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexLfGCR"
+1573651464582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651464582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651464582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651464582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651466394	Marionette	INFO	Listening on port 36449
+1573651466402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+1573651530439	Marionette	INFO	Stopped listening on port 36449
+1573651611768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFFsMjv"
+1573651612150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651612150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651612151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651612151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651613796	Marionette	INFO	Listening on port 36245
+1573651613974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573651646171	Marionette	INFO	Stopped listening on port 36245
+1573651674850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKGCDVA"
+1573651675239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651675239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651675239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651675239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651676916	Marionette	INFO	Listening on port 40645
+1573651676957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573651701219	Marionette	INFO	Stopped listening on port 40645
+1573651709934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXQKTJt"
+1573651710318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651710319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651710319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651710319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651712053	Marionette	INFO	Listening on port 45227
+1573651712155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+1573651748644	Marionette	INFO	Stopped listening on port 45227
+1573651840244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0O1d8"
+1573651840623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651840623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651840623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651840623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651842389	Marionette	INFO	Listening on port 35555
+1573651842456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+1573651888435	Marionette	INFO	Stopped listening on port 35555
+1573651940304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemACfdW"
+1573651940686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573651940687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573651940687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573651940687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573651942322	Marionette	INFO	Listening on port 45487
+1573651942432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+1573651969805	Marionette	INFO	Stopped listening on port 45487
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573652120033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaWuJmW"
+1573652120415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573652120416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573652120416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573652120416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573652122191	Marionette	INFO	Listening on port 43279
+1573652122253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+1573652159967	Marionette	INFO	Stopped listening on port 43279
+1573652218381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYKXtVf"
+1573652218762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573652218762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573652218762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573652218763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573652220496	Marionette	INFO	Listening on port 46663
+1573652220604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+[Parent 16207, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573652262127	Marionette	INFO	Stopped listening on port 46663
+1573652264040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUZAKdi"
+1573652264444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573652264444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573652264444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573652264444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573652266199	Marionette	INFO	Listening on port 35493
+1573652266255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+1573652309445	Marionette	INFO	Stopped listening on port 35493
+1573652419996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16RXqk"
+1573652420377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573652420377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573652420377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573652420377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573652422019	Marionette	INFO	Listening on port 46229
+1573652422180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+1573652458742	Marionette	INFO	Stopped listening on port 46229
+1573652471104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile45nsPD"
+1573652471493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573652471493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573652471493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573652471493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573652473150	Marionette	INFO	Listening on port 45403
+1573652473214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.3cafe004ac06f27722ce.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.231cd5a9b61c9d5b1426.js, line 2: unreachable code after return statement
+[Parent 17749, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17749, Gecko_IOThread] WARNING: pipe error (151): Connection reset by peer: file /build/firefox-dMxUp2/firefox-70.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573652691222	Marionette	INFO	Stopped listening on port 45403
